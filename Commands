@@ -1,0 +1,17 @@
+=======================================================
+1. sudo su --
+2. yum update
+3. yum install git -y
+4. git --version
+5. git config --global user.name "Your Name"
+6. git config --global user.email "youremail@yourdomain.com"
+7. git config --list
+8. cat > Commands.txt
+9. ls                                 
+10. rm Commands.txt                 
+11. git add. 
+12. git status 
+13. git commit -m'1st commit'
+14. git push
+15. git revert
+=======================================================
